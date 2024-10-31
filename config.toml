@@ -1,6 +1,11 @@
 [screenshot]
+ip = "192.168.1.1"
+OBS_WEBSOCKET_PORT = 4444
+WEBSOCKET_PASSWORD = "password"
+number_of_screens = 7
+interval_seconds = 1
+scene_name = "SCENE1"
+source_name = "Image"
 folder = "C:/Users/omarz/Documents/paul/burst"
-folder_burst= "C:/Users/omarz/Documents/paul/singleshot"
-name = "screenshot.png"
-number_of_screens = 5
-interval_seconds = 2  # Time interval between screenshots in seconds
+folder_burst = "C:/Users/omarz/Documents/paul/singleshot"
+name = "screenshot"

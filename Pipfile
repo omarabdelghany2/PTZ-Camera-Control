@@ -4,10 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pygetwindow = "*"
-pyautogui = "*"
-pillow = "*"
-pywin32 = "*"
+obsws-python = "==1.1.0"
+toml = "*"
+requests = "*"
 
 [dev-packages]
 
